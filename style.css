@@ -1,0 +1,14 @@
+/*section > p {
+    color:red;
+}
+section +p на один быльше після іншого
+Section +~ виділяє всі після сектион
+
+p::first-latter{
+    color:green;
+}
+p:hover навожу міняє колір тексту
+*/
+*{
+    font-family: 'Bungee Hairline', cursive;
+}
